@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Hardware Shop\bin\Debug\Hardware Shop.exe.config
+C:\Users\Dell\source\repos\Hardware Shop\bin\Debug\Hardware Shop.exe
+C:\Users\Dell\source\repos\Hardware Shop\bin\Debug\Hardware Shop.pdb
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware Shop.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware_Shop.Properties.Resources.resources
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware Shop.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware Shop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware Shop.exe
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware Shop.pdb
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware_Shop.Item.resources
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware_Shop.Login.resources
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware_Shop.Billing.resources
+C:\Users\Dell\source\repos\Hardware Shop\obj\Debug\Hardware_Shop.Customer.resources
